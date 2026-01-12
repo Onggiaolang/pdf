@@ -1,1 +1,5 @@
-pip install pymupdf python-pptx
+streamlit
+pandas
+numpy
+matplotlib
+openpyxl
